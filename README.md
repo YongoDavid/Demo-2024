@@ -9,3 +9,5 @@ Estate website functionality is at 70% need to keep testing too know what is not
 
 Practicing managining req/res with an API using postman , trying to understand RESTful/REST API better
 REST API is the most common type and protocol for creating an API
+
+going back to spend more time on this Estate Project
