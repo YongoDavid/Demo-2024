@@ -11,3 +11,4 @@ Practicing managining req/res with an API using postman , trying to understand R
 REST API is the most common type and protocol for creating an API
 
 going back to spend more time on this Estate Project
+i have been able to get the form data to save to local storage using an easier way
