@@ -13,3 +13,4 @@ REST API is the most common type and protocol for creating an API
 going back to spend more time on this Estate Project
 i have been able to get the form data to save to local storage using an easier way
 it wasnt as complecated as the first way i was trying to , i will push the code to github now
+I need to try and make this list of properties appear as it should
