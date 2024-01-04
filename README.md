@@ -16,3 +16,4 @@ it wasnt as complecated as the first way i was trying to , i will push the code 
 I need to try and make this list of properties appear as it should
 
 I knew this wasnt going to be easy so i just have to keep going 
+Progress , KEEP GOING , NO progress KEEP GOING as long as i am on the right track 
