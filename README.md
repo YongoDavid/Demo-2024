@@ -19,3 +19,4 @@ I knew this wasnt going to be easy so i just have to keep going
 Progress , KEEP GOING , NO progress KEEP GOING as long as i am on the right track 
 
 There is progress on the Estate project , the form is acting just as it should
+is to delete the old server and create a new one , then move from localstorage to the actual server
