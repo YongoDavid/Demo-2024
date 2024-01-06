@@ -21,3 +21,4 @@ Progress , KEEP GOING , NO progress KEEP GOING as long as i am on the right trac
 There is progress on the Estate project , the form is acting just as it should
 is to delete the old server and create a new one , then move from localstorage to the actual server
 Need to find a way for the new properties values to show correctly in the list of properties is shown
+Estate website coming along well now , after sooo many tirals and errors
