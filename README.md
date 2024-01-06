@@ -23,3 +23,6 @@ is to delete the old server and create a new one , then move from localstorage t
 Need to find a way for the new properties values to show correctly in the list of properties is shown
 Estate website coming along well now , after sooo many tirals and errors
 New list of properties is now showing , just  few touhes for positioning it 
+
+One this making this website has thought me so far is no matter how fraustrating it gets keep coming back , i will find a way 
+by gods grace 
