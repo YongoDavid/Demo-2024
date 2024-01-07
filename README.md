@@ -26,3 +26,4 @@ New list of properties is now showing , just  few touhes for positioning it
 
 One this making this website has thought me so far is no matter how fraustrating it gets keep coming back , i will find a way 
 by gods grace 
+Updated the pagination order of the page
