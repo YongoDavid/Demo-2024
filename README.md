@@ -24,9 +24,10 @@ Need to find a way for the new properties values to show correctly in the list o
 Estate website coming along well now , after sooo many tirals and errors
 New list of properties is now showing , just  few touhes for positioning it 
 
-One this making this website has thought me so far is no matter how fraustrating it gets keep coming back , i will find a way 
+One thing making this website has thought me so far is no matter how fraustrating it gets keep coming back , i will find a way 
 by gods grace 
 Updated the pagination order of the page 
 updated the visibility of the list of properties page to show 3 properties per page , 
 things left to do for this project , creating the server , creating the databse and then linking both 
 Start with responsive desgin for mobile , Tablet and desktop 
+Still on this estate website , new properties displaying well , only problem is they are displaying on every page , i just need them to display only on new pages 
