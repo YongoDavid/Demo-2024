@@ -32,4 +32,6 @@ things left to do for this project , creating the server , creating the databse 
 Start with responsive desgin for mobile , Tablet and desktop 
 Still on this estate website , new properties displaying well , only problem is they are displaying on every page , i just need them to display only on new pages 
 
-The moost annoying part about coding is when you are faced with a challenge and ypu keep trying and trying but there is no progress 
+The most annoying part about coding is when you are faced with a challenge and you keep trying and trying but there is no progress 
+
+Might leave this estate project the way it is since everything is working it's to make the new prperties only display on a new page and not all the pages  
