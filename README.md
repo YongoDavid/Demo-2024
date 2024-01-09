@@ -31,3 +31,5 @@ updated the visibility of the list of properties page to show 3 properties per p
 things left to do for this project , creating the server , creating the databse and then linking both 
 Start with responsive desgin for mobile , Tablet and desktop 
 Still on this estate website , new properties displaying well , only problem is they are displaying on every page , i just need them to display only on new pages 
+
+The moost annoying part about coding is when you are faced with a challenge and ypu keep trying and trying but there is no progress 
