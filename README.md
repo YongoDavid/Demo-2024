@@ -36,3 +36,4 @@ The most annoying part about coding is when you are faced with a challenge and y
 
 Might leave this estate project the way it is since everything is working it's to make the new prperties only display on a new page and not all the pages  
 Now MySQLis giving me issues , i have been trying to avoid it since but today i will face it
+every root-user i create after a few days the password doesnt work anymore , this has happned twice now and i have had to delete all the files and reinstall them
