@@ -35,3 +35,4 @@ Still on this estate website , new properties displaying well , only problem is 
 The most annoying part about coding is when you are faced with a challenge and you keep trying and trying but there is no progress 
 
 Might leave this estate project the way it is since everything is working it's to make the new prperties only display on a new page and not all the pages  
+Now MySQLis giving me issues , i have been trying to avoid it since but today i will face it
