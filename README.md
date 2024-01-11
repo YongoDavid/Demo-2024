@@ -39,3 +39,4 @@ Now MySQLis giving me issues , i have been trying to avoid it since but today i 
 every root-user i create after a few days the password doesnt work anymore , this has happned twice now and i have had to delete all the files and reinstall them
 i thought i had figured it out yesterday but here i during the day still trying to figure it out , Thanks to chantGPT for providing different solutions for me and trying to help me out
 MySQL is really giving me hard time
+i have tried different ways to install it but it keeps bening annoying 
