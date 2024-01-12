@@ -40,4 +40,6 @@ every root-user i create after a few days the password doesnt work anymore , thi
 i thought i had figured it out yesterday but here i during the day still trying to figure it out , Thanks to chantGPT for providing different solutions for me and trying to help me out
 MySQL is really giving me hard time
 i have tried different ways to install it but it keeps bening annoying 
-i dont know wha to do again 
+i dont know what to do again 
+
+since mysql database has decided to stress me for three days now , i took a break from it today 
