@@ -44,3 +44,4 @@ i dont know what to do again
 
 since mysql database has decided to stress me for three days now , i took a break from it today 
 went back to polish on responsive designs and better my skills on media queries
+just need to practice it more in all my projects and make sure all screens work well and as they should 
