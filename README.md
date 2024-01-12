@@ -43,3 +43,4 @@ i have tried different ways to install it but it keeps bening annoying
 i dont know what to do again 
 
 since mysql database has decided to stress me for three days now , i took a break from it today 
+went back to polish on responsive designs and better my skills on media queries
