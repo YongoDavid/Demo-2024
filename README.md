@@ -46,3 +46,5 @@ since mysql database has decided to stress me for three days now , i took a brea
 went back to polish on responsive designs and better my skills on media queries
 just need to practice it more in all my projects and make sure all screens work well and as they should 
 i will go back to mysql today at midnight hopefully it all goes well with setting up my database 
+
+i have tried again today and mysql still is not acting the way it should , it is from one issue to another
