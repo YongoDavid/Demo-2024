@@ -48,5 +48,6 @@ just need to practice it more in all my projects and make sure all screens work 
 i will go back to mysql today at midnight hopefully it all goes well with setting up my database 
 
 i have tried again today and mysql still is not acting the way it should , it is from one issue to another
-and because if this issues i have been slacking oon workks i am meant to do since , because it involves the use of a dabase 
+and because if this issues i have been slacking on works i am meant to do since , because it involves the use of a dabase 
 so far i have just been using localstorage to store data 
+the painful thing is that i should have gotten far and covered alot if not for this issues of the database 
