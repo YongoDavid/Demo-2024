@@ -1,4 +1,4 @@
-# Demo-2024
+   # Demo-2024
 
 Welcome to 2024 David You came into the year  DEVELOPER and by the end of this year i will be 10times better 
 
@@ -53,4 +53,5 @@ so far i have just been using localstorage to store data
 the painful thing is that i should have gotten far and covered alot if not for this issues of the database 
 and another issue is i havent been coding well the past few days , not as much as i have been wanting to which is making me annoyed at myself 
 
-the pending projects i have are the properties website , the blog website and the project full stack website i am meant to start 
+the pending projects i have are the properties website , the blog website and the project full stack website i am meant to start
+created new folders in my server for the "My-blogs" application 
