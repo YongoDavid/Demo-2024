@@ -55,3 +55,4 @@ and another issue is i havent been coding well the past few days , not as much a
 
 the pending projects i have are the properties website , the blog website and the project full stack website i am meant to start
 created new folders in my server for the "My-blogs" application 
+created folders for the "controllers" , "middlewares" , "config" e.t.c
