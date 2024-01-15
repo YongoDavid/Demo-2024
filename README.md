@@ -59,4 +59,5 @@ created folders for the "controllers" , "middlewares" , "config" e.t.c
 
 finally again after weeks and days of hassle , MqSQL is noow working , i got it installed using Homebrew  ,the initial error when installing didnt show again 
 Password saved and working as it should , all Thanks to God 
-workbench and my server versions are not compatabale right now but server , workbench and the database is working just fine , the compatability is not a critical issue 
+workbench and my server versions are not compatabale right now but server , workbench and the database is working just fine , the compatability is not a critical issue
+now i can delve into MySQL proper and run all the database long needed for my projects  
