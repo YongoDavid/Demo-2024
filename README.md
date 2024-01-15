@@ -58,3 +58,4 @@ created new folders in my server for the "My-blogs" application
 created folders for the "controllers" , "middlewares" , "config" e.t.c
 
 finally again after weeks and days of hassle , MqSQL is noow working , i got it installed using Homebrew  ,the initial error when installing didnt show again 
+Password saved and working as it should , all Thanks to God 
