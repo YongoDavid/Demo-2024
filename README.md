@@ -65,3 +65,5 @@ now i can delve into MySQL proper and run all the database long needed for my pr
 practicws a little with mysql and getting a hand of it 
 practiced interacting with api using postman 
 created database for the properties project , and created for the blogs project 
+i just have to link the database to thier own websites and test if it is working 
+
