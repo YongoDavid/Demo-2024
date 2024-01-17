@@ -63,3 +63,4 @@ workbench and my server versions are not compatabale right now but server , work
 now i can delve into MySQL proper and run all the database long needed for my projects  
 
 practicws a little with mysql and getting a hand of it 
+practiced interacting with api using postman 
