@@ -69,3 +69,4 @@ i just have to link the database to thier own websites and test if it is working
 
 Now moving on to the next project which is my main project , starting with the front end
 started my main project which is an E-commerce web application 
+starting with mobile first then i will scale up to other screen 
