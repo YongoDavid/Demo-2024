@@ -68,3 +68,4 @@ created database for the properties project , and created for the blogs project
 i just have to link the database to thier own websites and test if it is working 
 
 Now moving on to the next project which is my main project , starting with the front end
+started my main project which is an E-commerce web application 
