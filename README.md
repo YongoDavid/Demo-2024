@@ -72,3 +72,4 @@ started my main project which is an E-commerce web application
 starting with mobile first then i will scale up to other screen 
 
 i have gone far with my project , with just the front-end and that is for the mobile , i am just left with the profile side 
+the pages i have done so far for the mobile are : the home page , the About Us page , the Contact Us page  , the login page , the sign up and the cart page 
