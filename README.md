@@ -77,3 +77,4 @@ now lets move to all these for desktop / laptop screen
 
 Just when i thought i have gone far with my E commerce project and done with the mobile screens , i have to stsrt again because is isnt going as i thought 
 hopefully i get it sorted out and i can move to the functionality of the web app ny wednesday 
+wish me luck 
