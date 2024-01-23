@@ -80,3 +80,4 @@ hopefully i get it sorted out and i can move to the functionality of the web app
 wish me luck 
 
 i am sooo frustrated  , time is runnning and still i havent been able to figure out this laptop home view for laptop screens only 
+i adjusted for mobile screens and it is w=roking perfectly now
