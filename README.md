@@ -81,3 +81,4 @@ wish me luck
 
 i am sooo frustrated  , time is runnning and still i havent been able to figure out this laptop home view for laptop screens only 
 i adjusted for mobile screens and it is w=roking perfectly now
+if i am not able to soort out this latptop screen view today i will just leave it and move on to the functionality of this website because there is no time to waste here 
