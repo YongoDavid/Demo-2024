@@ -85,3 +85,4 @@ if i am not able to sort out this latptop screen view today i will just leave it
 
 laptop screen design going well , i need to finish it by todat in other to move on to the functionality 
 footer area needs some work to be done to it , but for now it is ok 
+i cant stooo i need to keep going no matter how difficult it might be 
