@@ -80,5 +80,7 @@ hopefully i get it sorted out and i can move to the functionality of the web app
 wish me luck 
 
 i am sooo frustrated  , time is runnning and still i havent been able to figure out this laptop home view for laptop screens only 
-i adjusted for mobile screens and it is w=roking perfectly now
-if i am not able to soort out this latptop screen view today i will just leave it and move on to the functionality of this website because there is no time to waste here 
+i adjusted for mobile screens and it is working perfectly now
+if i am not able to sort out this latptop screen view today i will just leave it and move on to the functionality of this website because there is no time to waste here 
+
+laptop screen design going well , i need to finish it by todat in other to move on to the functionality 
