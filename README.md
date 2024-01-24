@@ -84,3 +84,4 @@ i adjusted for mobile screens and it is working perfectly now
 if i am not able to sort out this latptop screen view today i will just leave it and move on to the functionality of this website because there is no time to waste here 
 
 laptop screen design going well , i need to finish it by todat in other to move on to the functionality 
+footer area needs some work to be done to it , but for now it is ok 
