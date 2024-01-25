@@ -87,3 +87,5 @@ laptop screen design going well , i need to finish it by todat in other to move 
 footer area needs some work to be done to it , but for now it is ok 
 i cant stooo i need to keep going no matter how difficult it might be 
 once i have stopped i have lost 
+
+1:55am and after trying and trying to fix all the screens to work properly for my E project the design is 80% done 
