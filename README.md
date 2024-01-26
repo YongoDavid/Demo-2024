@@ -92,4 +92,4 @@ once i have stopped i have lost
 
 Now moving on to funactionality for My Hiit project
 Today is a new day ,and i have to continue with the functionality of the e-markket project
-the main task for today is to handle the functionality for the login , sign up and creating users for the website and after this i will move on to the next thing 
+the main task for today is to handle the server and functionality for the login , sign up and creating users for the website and after this i will move on to the next thing 
