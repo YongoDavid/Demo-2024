@@ -91,7 +91,7 @@ once i have stopped i have lost
 1:55am and after trying and trying to fix all the screens to work properly for my E project the design is 80% done 
 
 Now moving on to funactionality for My Hiit project
-Today is a new day ,and i have to continue with the functionality of the e-markket project
+Today is a new day ,and i have to continue with the functionality of the e-market project
 the main task for today is to handle the server and functionality for the login , sign up and creating users for the website and after this i will move on to the next thing 
-done with the functionality for login , signuo , creating user and the server 
+done with the functionality for login , signup , creating user and the server 
 i just need some finishing touches on the server and create my database which i will link to the server 
