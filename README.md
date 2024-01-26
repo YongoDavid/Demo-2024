@@ -91,3 +91,5 @@ once i have stopped i have lost
 1:55am and after trying and trying to fix all the screens to work properly for my E project the design is 80% done 
 
 Now moving on to funactionality for My Hiit project
+Today is a new day ,and i have to continue with the functionality of the e-markket project
+
