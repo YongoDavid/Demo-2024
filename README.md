@@ -95,3 +95,5 @@ Today is a new day ,and i have to continue with the functionality of the e-marke
 the main task for today is to handle the server and functionality for the login , sign up and creating users for the website and after this i will move on to the next thing 
 done with the functionality for login , signup , creating user and the server 
 i just need some finishing touches on the server and create my database which i will link to the server 
+
+i am trying to text my database but the form is not sending its input to the database
