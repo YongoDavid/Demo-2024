@@ -96,4 +96,5 @@ the main task for today is to handle the server and functionality for the login 
 done with the functionality for login , signup , creating user and the server 
 i just need some finishing touches on the server and create my database which i will link to the server 
 
-i am trying to text my database but the form is not sending its input to the database
+i am trying to test my database but the form is not sending its input to the database
+need to get a cloud database for my database to work as it should 
