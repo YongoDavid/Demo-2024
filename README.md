@@ -98,4 +98,4 @@ i just need some finishing touches on the server and create my database which i 
 
 i am trying to test my database but the form is not sending its input to the database
 need to get a cloud database for my database to work as it should 
-since i havent gotten a cloud database yet i tried using postman to just test myapi and try siging up but here comes another issue , froom one thing to the other 
+since i havent gotten a cloud database yet i tried using postman to just test myapi and try siging up but here comes another issue , from one thing to the other 
