@@ -105,3 +105,4 @@ still going to work on this prooject but just  a different section , so i can ge
 the things i want to do today for this project are , create a border around every item that is being sold for them to have thier own individial container 
 
 I have added to cart section remaining its functionality , looking good on mobile and laptop , 
+what is left is to center all product images and create the profile page and edit page then make sure all the routing for everyday is done 
