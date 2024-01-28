@@ -101,8 +101,9 @@ need to get a cloud database for my database to work as it should
 since i havent gotten a cloud database yet i tried using postman to just test myapi and try siging up but here comes another issue , from one thing to the other 
 
 its time i move on to something else on this e-commerce project and after come back to the issue at hand later in the day 
-still going to work on this prooject but just  a different section , so i can get other things done and on the front-end and goo back to the back-end 
+still going to work on this project but just  a different section , so i can get other things done and on the front-end and goo back to the back-end 
 the things i want to do today for this project are , create a border around every item that is being sold for them to have thier own individial container 
 
 I have added to cart section remaining its functionality , looking good on mobile and laptop , 
 what is left is to center all product images and create the profile page and edit page then make sure all the routing for everyday is done 
+Now its time for me to move to adding and removing items from the cart 
