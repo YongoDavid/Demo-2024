@@ -102,3 +102,4 @@ since i havent gotten a cloud database yet i tried using postman to just test my
 
 its time i move on to something else on this e-commerce project and after come back to the issue at hand later in the day 
 still going to work on this prooject but just  a different section , so i can get other things done and on the front-end and goo back to the back-end 
+the things i want to do today for this project are , create a border around every item that is being sold for them to have thier own individial container 
