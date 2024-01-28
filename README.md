@@ -99,3 +99,5 @@ i just need some finishing touches on the server and create my database which i 
 i am trying to test my database but the form is not sending its input to the database
 need to get a cloud database for my database to work as it should 
 since i havent gotten a cloud database yet i tried using postman to just test myapi and try siging up but here comes another issue , from one thing to the other 
+
+its time i move on to something else on this e-commerce project and after come back to the issue at hand later in the day 
