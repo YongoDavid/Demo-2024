@@ -110,3 +110,5 @@ Now its time for me to move to adding and removing items from the cart
 
 4:13 am 29th jan 2024 and i am still up trying to make this e-commerce app work , this iss now my night have been for three night now because i have a deadline 
 and itss just one issue to another with these codes
+
+i asked for help from someone concerning the issuses i was facing with my sever and account controllers and she helped me to solve it ,sometimes all you need is to ask for help from someone working oon something similar 
