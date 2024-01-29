@@ -15,8 +15,8 @@ i have been able to get the form data to save to local storage using an easier w
 it wasnt as complecated as the first way i was trying to , i will push the code to github now
 I need to try and make this list of properties appear as it should
 
-I knew this wasnt going to be easy so i just have to keep going 
-Progress , KEEP GOING , NO progress KEEP GOING as long as i am on the right track 
+I knew this wasnt going to be easy so i just have to keep going , 
+Progress KEEP GOING , NO progress KEEP GOING as long as i am on the right track i cant stop 
 
 There is progress on the Estate project , the form is acting just as it should
 is to delete the old server and create a new one , then move from localstorage to the actual server
