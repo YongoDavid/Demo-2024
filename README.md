@@ -107,3 +107,5 @@ the things i want to do today for this project are , create a border around ever
 I have added to cart section remaining its functionality , looking good on mobile and laptop , 
 what is left is to center all product images and create the profile page and edit page then make sure all the routing for everyday is done 
 Now its time for me to move to adding and removing items from the cart 
+
+4:13 am 29th jan 2024 and i am still up trying to make this e-commerce app work , this iss now my night have been for three night now because i have a deadline 
