@@ -116,3 +116,4 @@ i asked for help from someone concerning the issuses i was facing with my sever 
 Deadline for my e-commerce website is tomorrow  , now its time for me to host the client and server side of my project and maybe get a cloud database to host my server on
 the deadline to submit my project was today and i was able to submit it yesterday at mind night 
 now i am trying to host my server and then run some finishing touches , which are being annoying right now 
+well this is the life i choose , solving problmes and bulidng things are never easy but with time they will be 
