@@ -119,3 +119,4 @@ now i am trying to host my server and then run some finishing touches , which ar
 well this is the life i choose , solving problmes and bulidng things are never easy but with time they will be 
 
 WEkk this is tthe end of january , it was an amzing month coding / programming from oone project to another and handling one problem to another 
+Submited my project , did my defended it and wrote my exam which was amazing 
