@@ -1,4 +1,4 @@
-   # Demo-2024
+   # Demo-2024 JAN
 
 Welcome to 2024 David You came into the year  DEVELOPER and by the end of this year i will be 10times better 
 
@@ -117,3 +117,5 @@ Deadline for my e-commerce website is tomorrow  , now its time for me to host th
 the deadline to submit my project was today and i was able to submit it yesterday at mind night 
 now i am trying to host my server and then run some finishing touches , which are being annoying right now 
 well this is the life i choose , solving problmes and bulidng things are never easy but with time they will be 
+
+WEkk this is tthe end of january , it was an amzing month coding / programming from oone project to another and handling one problem to another 
